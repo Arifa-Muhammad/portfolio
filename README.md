@@ -17,13 +17,16 @@ A personal portfolio website built using HTML and CSS to showcase my skills, edu
 
 ## Project Structure
 
-- `main.html` — Main portfolio webpage
+- `index.html` — Main portfolio webpage
 - `style.css` — Styling and layout
 
 ## Getting Started
 
 1. Clone or download this repository.
-2. Open `main.html` in your browser to view the website.
+2. Open `index.html` in your browser to view the website.
+
+## Live Website: 
+https://arifa-muhammad.github.io/portfolio/
 
 ## Author
 
